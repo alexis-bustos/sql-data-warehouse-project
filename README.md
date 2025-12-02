@@ -34,4 +34,4 @@ These insighs empower stakeholders with key business metrics, enabling strategic
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share thi sproject with proper attribution.
 
 ## 🕵️‍♂️ About Me
-Hi there! I'm Alexis Bustos, a passionate IT professional interested in the world big data. 
+Hi there! I'm Alexis Bustos, a passionate IT professional interested in the world of data. 
