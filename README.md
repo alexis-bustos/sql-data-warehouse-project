@@ -89,4 +89,4 @@ Feel free to connect with me on the following platforms:
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share thi sproject with proper attribution.
 
 ## 🕵️‍♂️ About Me
-Hi there! I'm Alexis Bustos, a passionate IT professional interested in the world of data. 
+Hi there! I'm Alexis Bustos, a passionate IT professional interested in the world of data and tech. 
